@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/sara-juengst/static/css/main.e786ad52.css",
-    "main.js": "/sara-juengst/static/js/main.70cf41ac.js",
+    "main.css": "/sara-juengst/static/css/main.3d6d6995.css",
+    "main.js": "/sara-juengst/static/js/main.10d4f999.js",
     "static/media/field.jpg": "/sara-juengst/static/media/field.1904ffe306269d5002f1.jpg",
     "static/media/free-skull.jpg": "/sara-juengst/static/media/free-skull.4407efe5f1afd23af318.jpg",
     "static/media/sara_selfie.jpg": "/sara-juengst/static/media/sara_selfie.186d2e6e46ebe989b523.jpg",
+    "static/media/Logo_Skull_fill.png": "/sara-juengst/static/media/Logo_Skull_fill.e3ba404f7f85ea31a436.png",
+    "static/media/Logo_Skull_Grey.png": "/sara-juengst/static/media/Logo_Skull_Grey.28665d9982b1579b05a5.png",
     "index.html": "/sara-juengst/index.html",
-    "main.e786ad52.css.map": "/sara-juengst/static/css/main.e786ad52.css.map",
-    "main.70cf41ac.js.map": "/sara-juengst/static/js/main.70cf41ac.js.map"
+    "main.3d6d6995.css.map": "/sara-juengst/static/css/main.3d6d6995.css.map",
+    "main.10d4f999.js.map": "/sara-juengst/static/js/main.10d4f999.js.map"
   },
   "entrypoints": [
-    "static/css/main.e786ad52.css",
-    "static/js/main.70cf41ac.js"
+    "static/css/main.3d6d6995.css",
+    "static/js/main.10d4f999.js"
   ]
 }
