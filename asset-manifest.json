@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sara-juengst/static/css/main.e786ad52.css",
+    "main.js": "/sara-juengst/static/js/main.70cf41ac.js",
+    "static/media/field.jpg": "/sara-juengst/static/media/field.1904ffe306269d5002f1.jpg",
+    "static/media/free-skull.jpg": "/sara-juengst/static/media/free-skull.4407efe5f1afd23af318.jpg",
+    "static/media/sara_selfie.jpg": "/sara-juengst/static/media/sara_selfie.186d2e6e46ebe989b523.jpg",
+    "index.html": "/sara-juengst/index.html",
+    "main.e786ad52.css.map": "/sara-juengst/static/css/main.e786ad52.css.map",
+    "main.70cf41ac.js.map": "/sara-juengst/static/js/main.70cf41ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e786ad52.css",
+    "static/js/main.70cf41ac.js"
+  ]
+}
