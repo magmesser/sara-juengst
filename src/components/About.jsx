@@ -18,7 +18,7 @@ const About = () => {
             <p>Hi. I'm Sara, nice to meet you. Please take a look around.</p>
           </div>
           <div>
-            <p>I am an associate professor at UNC Charlotte. I specializes in bioarchaeology and Andean archaeology. I have conducted research in Bolivia and Peru and plan to begin a project in Ecuador in Summer 2017. I have also worked locally, assisting with field projects in the Southeastern United States when possible. I am particularly interested in using human skeletal remains to investigates people’s identities and social structures in the past. I have also worked with human remains to evaluate past medical practices (trepanation or skull surgery) and violence levels within past Andean populations.</p>
+            <p> I am an associate professor at the University of North Carolina at Charlotte, NC, USA. As an anthropological bioarchaeologist, my research integrates social theory and skeletal evidence to address lived experiences of diet, disease, migration, and violence in the past and present. My research primarily focuses on South America (Bolivia, Ecuador, and Peru), but I also consult on projects in North Carolina, Kenya, and Nigeria. In all projects, I explore how people navigated changing social and environmental climates, and highlight how skeletons embody power and community. </p>
           </div>
         </div>
       </div>
