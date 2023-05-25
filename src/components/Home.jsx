@@ -20,7 +20,7 @@ const Home = () => {
           investigates people’s identities and social structures in the past.
         </p>
         <div>
-          <button className="text-[#E7ECEF] group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#6096BA] hover:border-[#6096BA]"><Link to="work" smooth={true} duration={500}>
+          <button className="text-[#E7ECEF] group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#6096BA] hover:border-[#6096BA]"><Link to="publications" smooth={true} duration={500}>
                      
             View Work</Link>
             <span className="group-hover:rotate-90 duration-300">

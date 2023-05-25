@@ -1,10 +1,11 @@
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
 import About from "./components/About";
-import Skills from "./components/Skills";
-import Work from "./components/Work";
+import Research from "./components/Research";
+import Publications from "./components/Publications";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import Photos from "./components/Photos";
 
 function App() {
   return (
@@ -12,8 +13,9 @@ function App() {
       <Navbar />
       <Home />
       <About />
-      <Skills />
-      <Work />
+      <Research />
+      <Photos />
+      <Publications />
       <Contact />
       <Footer />
     </div>
