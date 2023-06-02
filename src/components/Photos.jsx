@@ -1,84 +1,105 @@
+/* eslint-disable react/jsx-no-comment-textnodes */
 import React from "react";
 // Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";
 // import required modules
-import { Autoplay, Pagination, Navigation } from "swiper";
+import { Autoplay, EffectCards } from "swiper";
 // Import Swiper styles
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
+import "swiper/css/effect-cards";
 import "./Photos.css";
+import {FaMapMarkerAlt} from "react-icons/fa"
 
 // Import Photos
-import Me1 from "../assets/photosSwiper/selfie2.jpg";
-import Me2 from "../assets/photosSwiper/selfie1.jpg";
-import Me3 from "../assets/photosSwiper/selfie3.jpg";
-import Me4 from "../assets/photosSwiper/selfie4.jpg";
-import Ls1 from "../assets/photosSwiper/1.jpg";
-import Ls2 from "../assets/photosSwiper/2.jpg";
-import Ls3 from "../assets/photosSwiper/3.jpg";
-import Ls4 from "../assets/photosSwiper/4.jpg";
+import Me1 from "../assets/images/selfie2.jpg";
+import Me2 from "../assets/images/selfie1.jpg";
+import Me3 from "../assets/images/selfie3.jpg";
+import Me4 from "../assets/images/selfie4.jpg";
+import Ls1 from "../assets/images/1.jpg";
+import Ls2 from "../assets/images/2.jpg";
+import Ls3 from "../assets/images/3.jpg";
+import Ls4 from "../assets/images/4.jpg";
 
 const Photos = () => {
+  const images = [
+    {
+      id: 1,
+      name: "Selfie 2",
+      src: Me1,
+      tag: "Antigua Guatemala, Guatemala",
+    },
+    {
+      id: 2,
+      name: "Landscape 1",
+      src: Ls1,
+      tag: "Dos Mangas, Ecuador",
+    },
+    {
+      id: 3,
+      name: "Selfie 1",
+      src: Me2,
+      tag: "Charlotte, North Carolina",
+    },
+    {
+      id: 4,
+      name: "Landscape 2",
+      src: Ls2,
+      tag: "Copacabana, Bolivia",
+    },
+    {
+      id: 5,
+      name: "Selfie 3",
+      src: Me3,
+      tag: "Dos Mangas, Ecuador",
+    },
+    {
+      id: 6,
+      name: "Landscape 3",
+      src: Ls3,
+      tag: "Illiampu, Lake Titicaca, Bolivia",
+    },
+    {
+      id: 7,
+      name: "Selfie 4",
+      src: Me4,
+      tag: "Dos Mangas, Ecuador",
+    },
+    {
+      id: 8,
+      name: "Landscape 4",
+      src: Ls4,
+      tag: "Lake Titicaca, Bolivia",
+    },
+  ];
+
   return (
-    <>
+    <div className="container max-w-[1000px] mx-auto flex flex-col justify-center w-full h-full text-[#E7ECEF] text-2xl font-bold">
+         <p className="pt-1 pb-2">
+            // Field Work Photos
+          </p>
       <Swiper
-        direction="horizontal"
-        spaceBetween={30}
-        centeredSlides={true}
-        autoplay={{
-          delay: 2500,
-          disableOnInteraction: false,
-        }}
-        pagination={{
-          clickable: true,
-        }}
-        navigation={true}
-        modules={[Autoplay, Pagination, Navigation]}
+        effect={"cards"}
+        grabCursor={true}
+        modules={[EffectCards]}
         className="mySwiper"
+        loop={true}
       >
-        <SwiperSlide>
-          <div className="w-[50%]">
-            <img className="w-100 block" src={Me1} alt="Selfie 1" />
-          </div>
-        </SwiperSlide>
-        <SwiperSlide>
-          <div className="w-[50%]">
-            <img className="w-100 block" src={Ls1} alt="Landscape 1" />
-          </div>
-        </SwiperSlide>
-        <SwiperSlide>
-          <div className="w-[50%]">
-            <img className="w-100 block" src={Me2} alt="Selfie 2" />
-          </div>
-        </SwiperSlide>
-        <SwiperSlide>
-          <div className="w-[50%]">
-            <img className="w-100 block" src={Ls2} alt="Landscape 2" />
-          </div>
-        </SwiperSlide>
-        <SwiperSlide>
-          <div className="w-[50%]">
-            <img className="w-100 block" src={Me3} alt="Selfie 3" />
-          </div>
-        </SwiperSlide>
-        <SwiperSlide>
-          <div className="w-[50%]">
-            <img className="w-100 block" src={Ls3} alt="Landscape 3" />
-          </div>
-        </SwiperSlide>
-        <SwiperSlide>
-          <div className="w-[50%]">
-            <img className="w-100 block" src={Me4} alt="Selfie 4" />
-          </div>
-        </SwiperSlide>
-        <SwiperSlide>
-          <div className="w-[50%]">
-            <img className="w-100 block" src={Ls1} alt="Landscape 4" />
-          </div>
-        </SwiperSlide>
+        {images.map((image) => {
+            
+          return (
+            <SwiperSlide key={image.id} className="">
+              <img  src={image.src} alt={image.name} />
+              <div className="flex justify-center caption">
+
+             <FaMapMarkerAlt className="mr-1"/> <span> {image.tag}</span>
+              </div>
+            </SwiperSlide>
+          );
+        })}
       </Swiper>
-    </>
+    </div>
   );
 };
 
