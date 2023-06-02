@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sara-juengst/static/css/main.732f1088.css",
-    "main.js": "/sara-juengst/static/js/main.f102afc6.js",
+    "main.css": "/sara-juengst/static/css/main.40757d3d.css",
+    "main.js": "/sara-juengst/static/js/main.9ede5bb5.js",
     "static/media/1.jpg": "/sara-juengst/static/media/1.5a238bb7ca5596bd433c.jpg",
     "static/media/2.jpg": "/sara-juengst/static/media/2.1361fb82865bc9cd663d.jpg",
     "static/media/selfie3.jpg": "/sara-juengst/static/media/selfie3.c87cc6bbbc8b0f937920.jpg",
@@ -16,11 +16,11 @@
     "static/media/Logo_Skull_fill.png": "/sara-juengst/static/media/Logo_Skull_fill.e3ba404f7f85ea31a436.png",
     "static/media/Logo_Skull_Grey.png": "/sara-juengst/static/media/Logo_Skull_Grey.28665d9982b1579b05a5.png",
     "index.html": "/sara-juengst/index.html",
-    "main.732f1088.css.map": "/sara-juengst/static/css/main.732f1088.css.map",
-    "main.f102afc6.js.map": "/sara-juengst/static/js/main.f102afc6.js.map"
+    "main.40757d3d.css.map": "/sara-juengst/static/css/main.40757d3d.css.map",
+    "main.9ede5bb5.js.map": "/sara-juengst/static/js/main.9ede5bb5.js.map"
   },
   "entrypoints": [
-    "static/css/main.732f1088.css",
-    "static/js/main.f102afc6.js"
+    "static/css/main.40757d3d.css",
+    "static/js/main.9ede5bb5.js"
   ]
 }
