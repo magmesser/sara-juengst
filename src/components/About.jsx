@@ -18,7 +18,7 @@ const About = () => {
             <p>Hi. I'm Sara, nice to meet you. Please take a look around.</p>
           </div>
           <div>
-            <p> I am an associate professor at the University of North Carolina at Charlotte, NC, USA. As an anthropological bioarchaeologist, my research integrates social theory and skeletal evidence to address lived experiences of diet, disease, migration, and violence in the past and present. My research primarily focuses on South America (Bolivia, Ecuador, and Peru), but I also consult on projects in North Carolina, Kenya, and Nigeria. In all projects, I explore how people navigated changing social and environmental climates, and highlight how skeletons embody power and community. </p>
+            <p> I am an associate professor at the University of North Carolina at Charlotte, NC, USA. I earned my BA in Anthropology from Vanderbilt University in 2008 and my PhD in Anthropology from the University of North Carolina Chapel Hill in 2015. <br></br>As an anthropological bioarchaeologist, my research integrates social theory and skeletal evidence to address lived experiences of diet, disease, migration, and violence in the past and present. My research primarily focuses on South America (Bolivia, Ecuador, and Peru), but I also consult on projects in North Carolina, Kenya, and Nigeria. In all projects, I explore how people navigated changing social and environmental climates, and highlight how skeletons embody power and community. </p>
           </div>
         </div>
       </div>

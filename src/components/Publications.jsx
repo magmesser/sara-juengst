@@ -1,7 +1,7 @@
 /* eslint-disable react/jsx-no-comment-textnodes */
 import React from "react";
 import Skull from "../assets/free-skull.jpg";
-import Field from "../assets/field.jpg";
+import Field from "../assets/images/field.jpg";
 
 const Publications = () => {
   return (

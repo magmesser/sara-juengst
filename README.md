@@ -1,9 +1,10 @@
 # Sara Portfolio
 Professional Academic Portfolio of Dr. Sara Juengst
+https://magmesser.github.io/sara-juengst/
 
 ## To Do
-Research:
-- Research images and project sites: Ecuador Square, Bolivia Square, Cemetary Project
+In the News section:
+
 
 Publications:
 - add the link to the book https://www.routledge.com/Cooperation-and-Hierarchy-in-Ancient-Bolivia-Building-Community-with-the/Juengst/p/book/9781032004709 

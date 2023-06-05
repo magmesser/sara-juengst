@@ -21,6 +21,7 @@ import Ls1 from "../assets/images/1.jpg";
 import Ls2 from "../assets/images/2.jpg";
 import Ls3 from "../assets/images/3.jpg";
 import Ls4 from "../assets/images/4.jpg";
+import FieldWork from "../assets/images/field.jpg";
 
 const Photos = () => {
   const images = [
@@ -72,6 +73,12 @@ const Photos = () => {
       src: Ls4,
       tag: "Lake Titicaca, Bolivia",
     },
+    {
+      id: 9,
+      name: "Field work",
+      src: FieldWork,
+      tag: "Dos Mangas, Ecuador",
+    },
   ];
 
   return (
@@ -93,7 +100,7 @@ const Photos = () => {
               <img  src={image.src} alt={image.name} />
               <div className="flex justify-center caption">
 
-             <FaMapMarkerAlt className="mr-1"/> <span> {image.tag}</span>
+             <FaMapMarkerAlt className="mr-1 icon"/> <span> {image.tag}</span>
               </div>
             </SwiperSlide>
           );
