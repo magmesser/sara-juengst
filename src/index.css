@@ -31,3 +31,10 @@ font-family: 'Raleway', sans-serif; */
         #274C77
     )!important;
 }
+
+.rsch_hover:hover {
+    background: #274C77;
+    border: 1px solid ;
+    border-radius: 1rem;
+    color: #E7ECEF;
+}

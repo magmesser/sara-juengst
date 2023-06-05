@@ -1,16 +1,17 @@
 /* eslint-disable react/jsx-no-comment-textnodes */
 import React from "react";
-import Skull from "../assets/free-skull.jpg";
-import Field from "../assets/images/field.jpg";
 
 const Publications = () => {
   return (
-    <div name="publications" className="w-full md:h-screen bg-[#274C77] text-[#E7ECEF] p-4">
+    <div
+      name="publications"
+      className="w-full md:h-screen bg-[#274C77] text-[#E7ECEF] p-4"
+    >
       {/* Container */}
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-[#A3CEF1]">
-          Publications
+            Publications
           </p>
           <p className="py-6">// Check out some of my recent publications</p>
         </div>
@@ -18,10 +19,7 @@ const Publications = () => {
         {/* Card Container */}
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           {/* Card Item */}
-          <div
-            style={{ backgroundImage: `url(${Field})` }}
-            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
-          >
+          <div className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
@@ -43,10 +41,7 @@ const Publications = () => {
           </div>
           {/* End Card Item */}
           {/* Card Item */}
-          <div
-            style={{ backgroundImage: `url(${Skull})` }}
-            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
-          >
+          <div className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
@@ -69,10 +64,7 @@ const Publications = () => {
           {/* End Card Item */}
 
           {/* Card Item */}
-          <div
-            style={{ backgroundImage: `url(${Field})` }}
-            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
-          >
+          <div className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
@@ -94,10 +86,7 @@ const Publications = () => {
           </div>
           {/* End Card Item */}
           {/* Card Item */}
-          <div
-            style={{ backgroundImage: `url(${Skull})` }}
-            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
-          >
+          <div className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
@@ -120,10 +109,7 @@ const Publications = () => {
           {/* End Card Item */}
 
           {/* Card Item */}
-          <div
-            style={{ backgroundImage: `url(${Field})` }}
-            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
-          >
+          <div className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
@@ -145,10 +131,7 @@ const Publications = () => {
           </div>
           {/* End Card Item */}
           {/* Card Item */}
-          <div
-            style={{ backgroundImage: `url(${Skull})` }}
-            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
-          >
+          <div className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
@@ -170,6 +153,11 @@ const Publications = () => {
           </div>
           {/* End Card Item */}
         </div>
+      </div>
+
+      {/* In The News */}
+      <div className="div">
+        
       </div>
     </div>
   );

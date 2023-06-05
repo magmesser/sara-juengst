@@ -1,6 +1,5 @@
 /* eslint-disable react/jsx-no-comment-textnodes */
 import React from "react";
-import "./Research.css";
 
 // Images import
 import Bolivia from "../assets/images/BoliviaCover.jpg"
@@ -25,21 +24,21 @@ const Research = () => {
         </div>
         {/* Icon Container */}
         <div className="w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 text-center p-8 ">
-          <div className="shadow-md shadow-[#040c16] bg-[#6096BA] rsch_hover rounded-md duration-500">
+          <div className="shadow-md shadow-[#040c16] bg-[#6096BA] rsch_hover rounded-md duration-300">
             <a href="https://www.utrgv.edu/parcc/index.htm" target="_blank" rel="noreferrer">
-              <img className="w-50 mx-auto rounded-t-md" src={Ecuador} alt="Ecador Field Work"></img>
+              <img className="w-50 mx-auto rounded-t-md hover:rounded-t-2xl duration-300" src={Ecuador} alt="Ecador Field Work"></img>
               <p className="my-4">Proyecto Arqueológico de los Ríos Culebra-Colín (PARCC)</p>
             </a>
           </div>
-          <div className="shadow-md shadow-[#040c16] bg-[#6096BA] rsch_hover rounded-md duration-500">
+          <div className="shadow-md shadow-[#040c16] bg-[#6096BA] rsch_hover rounded-md duration-300">
             <a href="https://caprileslab.la.psu.edu/research/emergence-of-social-inequality-in-the-eastern-andes/" target="_blank" rel="noreferrer">
-              <img className="w-50 mx-auto rounded-md" src={Bolivia} alt="Bolivia Field Work"></img>
+              <img className="w-50 mx-auto rounded-t-md hover:rounded-t-2xl duration-300" src={Bolivia} alt="Bolivia Field Work"></img>
               <p className="my-4">Emergence of Social Inequality in the Eastern Andes</p>
             </a>
           </div>
-          <div className="shadow-md shadow-[#040c16]  bg-[#6096BA] rsch_hover rounded-md duration-500">
+          <div className="shadow-md shadow-[#040c16]  bg-[#6096BA] rsch_hover rounded-md duration-300">
             <a href="https://savecedargrove.org/" target="_blank" rel="noreferrer">
-              <img className="w-50 mx-auto rounded-md" src={Cedar} alt="Cedar Grove Field Work"></img>
+              <img className="w-50 mx-auto rounded-t-md hover:rounded-t-2xl duration-300" src={Cedar} alt="Cedar Grove Field Work"></img>
               <p className="my-4">Save Cedar Grove Cemetery</p>
             </a>
           </div>

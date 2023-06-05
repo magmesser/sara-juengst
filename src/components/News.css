@@ -1,0 +1,39 @@
+  .container {
+    text-align: center;
+    padding: 2rem;
+    border-radius: 2rem;
+  }
+
+  .news_container {
+    width: 60%;
+    height: auto;
+    padding-bottom: 4rem;
+}
+
+.news_item {
+    background-color: #6096BA;
+    text-align: center;
+    height: 500px;
+    padding: 2rem;
+    border-radius: 2rem;
+  }
+
+.swiper-pagination-clickable .swiper-pagination-bullet {
+    background: #A3CEF1;
+}
+
+/* ===== MEDIA QUERIES ===== */
+
+/* MEDIUM DEVICES */
+@media screen and (max-width: 1024px) {
+    .news_container  {
+        width: 60%;
+    }
+}
+
+/* SMALL DEVICES */
+@media screen and (max-width: 600px) {
+    .news_container {
+        width: 80%;
+    }
+}
