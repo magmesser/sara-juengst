@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sara-juengst/static/css/main.7251e94e.css",
-    "main.js": "/sara-juengst/static/js/main.c12fb227.js",
+    "main.css": "/sara-juengst/static/css/main.c28e9c3a.css",
+    "main.js": "/sara-juengst/static/js/main.38241e73.js",
     "static/media/1.jpg": "/sara-juengst/static/media/1.5a238bb7ca5596bd433c.jpg",
     "static/media/CedarGrove.jpg": "/sara-juengst/static/media/CedarGrove.5916943bc75c9bbde5e7.jpg",
     "static/media/BoliviaCover.jpg": "/sara-juengst/static/media/BoliviaCover.e92cb7ae8f94889b005f.jpg",
@@ -9,7 +9,6 @@
     "static/media/selfie3.jpg": "/sara-juengst/static/media/selfie3.c87cc6bbbc8b0f937920.jpg",
     "static/media/field.jpg": "/sara-juengst/static/media/field.1904ffe306269d5002f1.jpg",
     "static/media/EcuadorDig.jpg": "/sara-juengst/static/media/EcuadorDig.34a9dfdd743ad46bee43.jpg",
-    "static/media/free-skull.jpg": "/sara-juengst/static/media/free-skull.4407efe5f1afd23af318.jpg",
     "static/media/Juengst_CV_public.pdf": "/sara-juengst/static/media/Juengst_CV_public.5e615732b6a69c705eec.pdf",
     "static/media/selfie2.jpg": "/sara-juengst/static/media/selfie2.186d2e6e46ebe989b523.jpg",
     "static/media/selfie4.jpg": "/sara-juengst/static/media/selfie4.5de095ffd5d4a1a03bfc.jpg",
@@ -19,11 +18,11 @@
     "static/media/Logo_Skull_fill.png": "/sara-juengst/static/media/Logo_Skull_fill.e3ba404f7f85ea31a436.png",
     "static/media/Logo_Skull_Grey.png": "/sara-juengst/static/media/Logo_Skull_Grey.28665d9982b1579b05a5.png",
     "index.html": "/sara-juengst/index.html",
-    "main.7251e94e.css.map": "/sara-juengst/static/css/main.7251e94e.css.map",
-    "main.c12fb227.js.map": "/sara-juengst/static/js/main.c12fb227.js.map"
+    "main.c28e9c3a.css.map": "/sara-juengst/static/css/main.c28e9c3a.css.map",
+    "main.38241e73.js.map": "/sara-juengst/static/js/main.38241e73.js.map"
   },
   "entrypoints": [
-    "static/css/main.7251e94e.css",
-    "static/js/main.c12fb227.js"
+    "static/css/main.c28e9c3a.css",
+    "static/js/main.38241e73.js"
   ]
 }
