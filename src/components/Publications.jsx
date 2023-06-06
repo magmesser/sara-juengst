@@ -1,5 +1,29 @@
 /* eslint-disable react/jsx-no-comment-textnodes */
 import React from "react";
+import "./Publications.css";
+
+// Publications
+import doc1 from "../assets/publications/A3_Juengst2020_VITAL_TOPICS_FORUM_Cooperative_Bodies_Bi.pdf";
+
+// itle: "Cooperation and Hierarchy in Ancient Bolivia",
+// link: "https://www.routledge.com/Cooperation-and-Hierarchy-in-Ancient-Bolivia-Building-Community-with-the/Juengst/p/book/9781032004709"
+
+// Book & CV buttons?
+
+const pubData = [
+  {
+    id: 1,
+    title: "Cooperative Bodies: Bioarchaeologists Address Nonranked Societies",
+    link: "https://www.google.com/",
+    download: doc1,
+  },
+  {
+    id: 2,
+    title: "this is a test",
+    link: "https://www.google.com/",
+    download: doc1,
+  },
+];
 
 const Publications = () => {
   return (
@@ -17,148 +41,50 @@ const Publications = () => {
         </div>
 
         {/* Card Container */}
-        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4 flip-card">
           {/* Card Item */}
-          <div className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
-            {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                Publication 1
-              </span>
-              <div className="pt-8 text-center">
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Read Now
-                  </button>
-                </a>
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Download
-                  </button>
-                </a>
-              </div>
-            </div>
-          </div>
-          {/* End Card Item */}
-          {/* Card Item */}
-          <div className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
-            {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                Publication 2
-              </span>
-              <div className="pt-8 text-center">
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Read Now
-                  </button>
-                </a>
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Download
-                  </button>
-                </a>
-              </div>
-            </div>
-          </div>
-          {/* End Card Item */}
+          {pubData.map(({ id, title, link, download }) => {
+            return (
+              <div
+                key={id}
+                className="shadow-md shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto flip-card-inner"
+              >
+                <div className="flip-card-front">
+                  <h3 className="">{title}</h3>
+                </div>
 
-          {/* Card Item */}
-          <div className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
-            {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                Publication 1
-              </span>
-              <div className="pt-8 text-center">
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Read Now
-                  </button>
-                </a>
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Download
-                  </button>
-                </a>
+                {/* Hover Effects */}
+                <div className=" flip-card-back">
+                  <span className="text-l text-[#E7ECEF] font-bold tracking-wider">
+                    {title}
+                  </span>
+                  <div className="pt-8 text-center">
+                    <a href={link} target="_blank" rel="noreferrer">
+                      <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                        Read Now
+                      </button>
+                    </a>
+                    <a
+                      href={download}
+                      download
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                        Download
+                      </button>
+                    </a>
+                  </div>
+                </div>
               </div>
-            </div>
-          </div>
-          {/* End Card Item */}
-          {/* Card Item */}
-          <div className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
-            {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                Publication 2
-              </span>
-              <div className="pt-8 text-center">
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Read Now
-                  </button>
-                </a>
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Download
-                  </button>
-                </a>
-              </div>
-            </div>
-          </div>
-          {/* End Card Item */}
-
-          {/* Card Item */}
-          <div className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
-            {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                Publication 1
-              </span>
-              <div className="pt-8 text-center">
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Read Now
-                  </button>
-                </a>
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Download
-                  </button>
-                </a>
-              </div>
-            </div>
-          </div>
-          {/* End Card Item */}
-          {/* Card Item */}
-          <div className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
-            {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                Publication 2
-              </span>
-              <div className="pt-8 text-center">
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Read Now
-                  </button>
-                </a>
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Download
-                  </button>
-                </a>
-              </div>
-            </div>
-          </div>
-          {/* End Card Item */}
+            );
+          })}
         </div>
       </div>
+      {/* End Card Item */}
 
       {/* In The News */}
-      <div className="div">
-        
-      </div>
+      <div className="div"></div>
     </div>
   );
 };

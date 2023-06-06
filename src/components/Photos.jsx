@@ -3,7 +3,7 @@ import React from "react";
 // Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";
 // import required modules
-import { Autoplay, EffectCards } from "swiper";
+import { EffectCards } from "swiper";
 // Import Swiper styles
 import "swiper/css";
 import "swiper/css/pagination";

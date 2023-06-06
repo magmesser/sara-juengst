@@ -17,19 +17,19 @@ font-family: 'Raleway', sans-serif; */
 }
 
 .content-div {
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 250px;
+    height: 250px; */
 }
 
 .content-div:hover {
-    background-image: linear-gradient(
+    /* background-image: linear-gradient(
         to right,
         #A3CEF1,
         #6096BA,
         #274C77
-    )!important;
+    )!important; */
 }
 
 .rsch_hover:hover {

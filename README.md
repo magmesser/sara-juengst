@@ -3,13 +3,12 @@ Professional Academic Portfolio of Dr. Sara Juengst
 https://magmesser.github.io/sara-juengst/
 
 ## To Do
-In the News section:
 
 
 Publications:
 - add the link to the book https://www.routledge.com/Cooperation-and-Hierarchy-in-Ancient-Bolivia-Building-Community-with-the/Juengst/p/book/9781032004709 
 - title and description and citation, no images 
-- https://open.spotify.com/episode/7KqQUAIUy2u8UkbHk575tl?si=IJqVUKpQReu5GuaZJ4ob7w podcast AnthroBiology Podcast
+- get links from sara 
 - add links and downloadable publications
 - update content for work (resume-add download cv?) and work (publications)
 
@@ -18,8 +17,6 @@ Student Experience:
 
 Continuing & Styling:
 - add bar and socials to footer
-- add profile pic
-- add more fonts - add serif or handwriting
 
 
 Final:
