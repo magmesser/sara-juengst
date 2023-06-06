@@ -14,13 +14,13 @@ body {
   align-items: center;
 }
 
-.swiper {
+.photo_container {
   background: #274C77;
   width: 550px;
   height: 800px;
 }
 
-.swiper-slide {
+.photo_item {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -34,7 +34,7 @@ body {
 .caption {
   position: absolute;
   bottom: 1%;
-  color: #FFF;
+  color: #E7ECEF;
   z-index: 999;
   transform: translateY(-50%);
 }

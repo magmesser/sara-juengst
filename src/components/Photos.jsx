@@ -90,13 +90,13 @@ const Photos = () => {
         effect={"cards"}
         grabCursor={true}
         modules={[EffectCards]}
-        className="mySwiper"
+        className="photo_container mySwiper"
         loop={true}
       >
         {images.map((image) => {
             
           return (
-            <SwiperSlide key={image.id} className="">
+            <SwiperSlide key={image.id} className="photo_item">
               <img  src={image.src} alt={image.name} />
               <div className="flex justify-center caption">
 
