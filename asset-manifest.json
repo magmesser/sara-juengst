@@ -1,28 +1,33 @@
 {
   "files": {
-    "main.css": "/sara-juengst/static/css/main.3ee9f9c0.css",
-    "main.js": "/sara-juengst/static/js/main.2d41da12.js",
+    "main.css": "/sara-juengst/static/css/main.5c4fc809.css",
+    "main.js": "/sara-juengst/static/js/main.db4937d8.js",
+    "static/media/A3_Juengst2020_VITAL_TOPICS_FORUM_Cooperative_Bodies_Bi.pdf": "/sara-juengst/static/media/A3_Juengst2020_VITAL_TOPICS_FORUM_Cooperative_Bodies_Bi.751eb911bde3754077f2.pdf",
     "static/media/1.jpg": "/sara-juengst/static/media/1.5a238bb7ca5596bd433c.jpg",
     "static/media/CedarGrove.jpg": "/sara-juengst/static/media/CedarGrove.5916943bc75c9bbde5e7.jpg",
     "static/media/BoliviaCover.jpg": "/sara-juengst/static/media/BoliviaCover.e92cb7ae8f94889b005f.jpg",
     "static/media/2.jpg": "/sara-juengst/static/media/2.1361fb82865bc9cd663d.jpg",
+    "static/media/A7_Juengst_Chavez_2015_IJPP_Three_Trepanned_Skulls_from_the_Copacaba.pdf": "/sara-juengst/static/media/A7_Juengst_Chavez_2015_IJPP_Three_Trepanned_Skulls_from_the_Copacaba.75de2e80692573c53555.pdf",
+    "static/media/A10_Juengst_2018_BI_PowerBolivia.pdf": "/sara-juengst/static/media/A10_Juengst_2018_BI_PowerBolivia.5d5c06beac18ea1fd22f.pdf",
     "static/media/selfie3.jpg": "/sara-juengst/static/media/selfie3.c87cc6bbbc8b0f937920.jpg",
+    "static/media/Juengstetal2021_DietCopacabana (1).pdf": "/sara-juengst/static/media/Juengstetal2021_DietCopacabana (1).602a4a5abc31dae265e4.pdf",
     "static/media/field.jpg": "/sara-juengst/static/media/field.1904ffe306269d5002f1.jpg",
     "static/media/EcuadorDig.jpg": "/sara-juengst/static/media/EcuadorDig.34a9dfdd743ad46bee43.jpg",
     "static/media/Juengst_CV_public.pdf": "/sara-juengst/static/media/Juengst_CV_public.5e615732b6a69c705eec.pdf",
     "static/media/selfie2.jpg": "/sara-juengst/static/media/selfie2.186d2e6e46ebe989b523.jpg",
     "static/media/selfie4.jpg": "/sara-juengst/static/media/selfie4.5de095ffd5d4a1a03bfc.jpg",
+    "static/media/Juengstetal_2019_LAQ_unique_infant_mortuary_ritual_at_salango_ecuador_100_bc.pdf": "/sara-juengst/static/media/Juengstetal_2019_LAQ_unique_infant_mortuary_ritual_at_salango_ecuador_100_bc.79ee31914b876f626b6a.pdf",
     "static/media/selfie1.jpg": "/sara-juengst/static/media/selfie1.bd31e7d61ae38662a027.jpg",
     "static/media/4.jpg": "/sara-juengst/static/media/4.0b76be74f7d81048f143.jpg",
     "static/media/3.jpg": "/sara-juengst/static/media/3.807c8a03bc4f587fce6f.jpg",
     "static/media/Logo_Skull_fill.png": "/sara-juengst/static/media/Logo_Skull_fill.e3ba404f7f85ea31a436.png",
     "static/media/Logo_Skull_Grey.png": "/sara-juengst/static/media/Logo_Skull_Grey.28665d9982b1579b05a5.png",
     "index.html": "/sara-juengst/index.html",
-    "main.3ee9f9c0.css.map": "/sara-juengst/static/css/main.3ee9f9c0.css.map",
-    "main.2d41da12.js.map": "/sara-juengst/static/js/main.2d41da12.js.map"
+    "main.5c4fc809.css.map": "/sara-juengst/static/css/main.5c4fc809.css.map",
+    "main.db4937d8.js.map": "/sara-juengst/static/js/main.db4937d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ee9f9c0.css",
-    "static/js/main.2d41da12.js"
+    "static/css/main.5c4fc809.css",
+    "static/js/main.db4937d8.js"
   ]
 }
