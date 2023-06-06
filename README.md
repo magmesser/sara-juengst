@@ -6,11 +6,9 @@ https://magmesser.github.io/sara-juengst/
 
 
 Publications:
+- **book and cv**
 - add the link to the book https://www.routledge.com/Cooperation-and-Hierarchy-in-Ancient-Bolivia-Building-Community-with-the/Juengst/p/book/9781032004709 
-- title and description and citation, no images 
-- get links from sara 
-- add links and downloadable publications
-- update content for work (resume-add download cv?) and work (publications)
+- get links from sara for read now buttons
 
 Student Experience:
 - add student experience section
