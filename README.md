@@ -7,7 +7,6 @@ https://magmesser.github.io/sara-juengst/
 Publications:
 - jumbotron lg view
 - fix mobile view 
-- add the link to the book https://www.routledge.com/Cooperation-and-Hierarchy-in-Ancient-Bolivia-Building-Community-with-the/Juengst/p/book/9781032004709 
 - get links from sara for read now buttons
 
 Continuing & Styling:

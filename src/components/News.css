@@ -40,6 +40,12 @@
   /* SMALL DEVICES */
   @media screen and (max-width: 600px) {
       .news_container {
-          width: 80%;
+          width: 90%;
+      }
+
+      .news_item {
+        height: auto;
+        font-size: 16px;
+        
       }
   }

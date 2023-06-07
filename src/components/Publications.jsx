@@ -12,11 +12,6 @@ import cv from "../assets/Juengst_CV_public.pdf";
 
 import cover from "../assets/images/2.jpg";
 
-// title: "Cooperation and Hierarchy in Ancient Bolivia",
-// link: "https://www.routledge.com/Cooperation-and-Hierarchy-in-Ancient-Bolivia-Building-Community-with-the/Juengst/p/book/9781032004709"
-
-// Book ?
-
 const pubData = [
   {
     id: 1,
@@ -111,7 +106,7 @@ const Publications = () => {
         {/* End Book Jumbotron */}
       
         {/* Card Container */}
-        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4 pt-8">
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4 pt-8 flip-container">
           {/* Card Item & Mapping Start*/}
           {pubData.map(({ id, title, link, download }) => {
             return (

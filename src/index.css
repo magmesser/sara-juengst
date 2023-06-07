@@ -3,8 +3,7 @@
 @tailwind utilities;
 
   @import url('https://fonts.googleapis.com/css2?family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Raleway:wght@200;400;600&display=swap');
-/* font-family: 'Old Standard TT', serif;
-font-family: 'Raleway', sans-serif; */
+/* font-family: 'Raleway', sans-serif; */
 
 @layer base {
     body {
@@ -14,22 +13,6 @@ font-family: 'Raleway', sans-serif; */
         @apply px-4;
         @apply cursor-pointer;
     }
-}
-
-.content-div {
-    /* background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    height: 250px; */
-}
-
-.content-div:hover {
-    /* background-image: linear-gradient(
-        to right,
-        #A3CEF1,
-        #6096BA,
-        #274C77
-    )!important; */
 }
 
 .rsch_hover:hover {
