@@ -4,7 +4,7 @@ import Logo from "../assets/Logo_Skull_Grey.png";
 const Footer = () => {
   return (
     <footer className="bg-[#8b8c89] text-[#e7ecef]">
-      <div className="w-full max-w-screen-xl mx-auto p-4 md:py-8">
+      <div className="w-full max-w-screen-xl mx-auto pb-4 ">
         <div className="flex flex-col justify-center items-center ">
           <a
             href="https://magmesser.github.io/sara-juengst/"
@@ -15,7 +15,7 @@ const Footer = () => {
           <div class="flex flex-wrap items-center mb-6 text-sm font-medium sm:mb-0 ">
             <span className="block text-md sm:text-center">
               © 2023{" "}
-              <a href="https://flowbite.com/" className="hover:underline">
+              <a href="https://magmesser.github.io/sara-juengst/" className="hover:underline">
                 Sara L. Juengst, PhD
               </a>
               . All Rights Reserved.

@@ -5,12 +5,7 @@ https://magmesser.github.io/sara-juengst/
 ## To Do
 
 Publications:
-- jumbotron lg view
-- fix mobile view 
 - get links from sara for read now buttons
-
-Continuing & Styling:
-- add bar and socials to footer
 
 ? Student Experience:
 - add student experience section
