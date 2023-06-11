@@ -43,6 +43,13 @@
   }
 
   /* ===== MEDIA QUERIES ===== */
+/* MEDIUM DEVICES */
+@media screen and (max-width: 1020px){
+  .jumbo_div {
+    height: 400px!important;
+  }
+}
+
 
 /* SMALL DEVICES */
 @media screen and (max-width: 600px) {
