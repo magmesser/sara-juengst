@@ -22,7 +22,7 @@ const Research = () => {
             // These are current research projects I'm working on
           </p>
         </div>
-        {/* Icon Container */}
+        {/* Research Container */}
         <div className="w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 text-center p-8 ">
           <div className="shadow-md shadow-[#040c16] bg-[#6096BA] rsch_hover rounded-md duration-300">
             <a href="https://www.utrgv.edu/parcc/index.htm" target="_blank" rel="noreferrer">

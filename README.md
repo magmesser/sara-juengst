@@ -15,7 +15,7 @@
 - Publications:
   - get links from Sara for read now buttons
 - Student Experience:
-  - Add student experience section - get list of students and topics and where are they now from Sara
+  - get list of students and topics and where are they now from Sara
 - Other:
   - Custom Domain - yes sarajuengst.com
 
