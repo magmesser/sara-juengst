@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sara-juengst/static/css/main.bc3cec43.css",
-    "main.js": "/sara-juengst/static/js/main.b701c742.js",
+    "main.css": "/sara-juengst/static/css/main.a4c80527.css",
+    "main.js": "/sara-juengst/static/js/main.59b08237.js",
     "static/media/A3_Juengst2020_VITAL_TOPICS_FORUM_Cooperative_Bodies_Bi.pdf": "/sara-juengst/static/media/A3_Juengst2020_VITAL_TOPICS_FORUM_Cooperative_Bodies_Bi.751eb911bde3754077f2.pdf",
     "static/media/1.jpg": "/sara-juengst/static/media/1.5a238bb7ca5596bd433c.jpg",
     "static/media/CedarGrove.jpg": "/sara-juengst/static/media/CedarGrove.5916943bc75c9bbde5e7.jpg",
@@ -23,11 +23,11 @@
     "static/media/Logo_Skull_fill.png": "/sara-juengst/static/media/Logo_Skull_fill.e3ba404f7f85ea31a436.png",
     "static/media/Logo_Skull_Grey.png": "/sara-juengst/static/media/Logo_Skull_Grey.28665d9982b1579b05a5.png",
     "index.html": "/sara-juengst/index.html",
-    "main.bc3cec43.css.map": "/sara-juengst/static/css/main.bc3cec43.css.map",
-    "main.b701c742.js.map": "/sara-juengst/static/js/main.b701c742.js.map"
+    "main.a4c80527.css.map": "/sara-juengst/static/css/main.a4c80527.css.map",
+    "main.59b08237.js.map": "/sara-juengst/static/js/main.59b08237.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc3cec43.css",
-    "static/js/main.b701c742.js"
+    "static/css/main.a4c80527.css",
+    "static/js/main.59b08237.js"
   ]
 }
