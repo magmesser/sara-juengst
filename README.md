@@ -16,8 +16,6 @@
   - get links from Sara for read now buttons
 - Student Experience:
   - get list of students and topics and where are they now from Sara
-- Other:
-  - Custom Domain - yes sarajuengst.com
 
 ## Contribution
 
