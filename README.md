@@ -15,7 +15,7 @@
 - Publications:
   - get links from Sara for read now buttons
 - Student Experience:
-  - get list of students and topics and where are they now from Sara
+  - get list of students and topics and where are they now from Sara. then uncomment nav bar menus (2) and app.js
 
 ## Contribution
 
