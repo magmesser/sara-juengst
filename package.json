@@ -1,7 +1,7 @@
 {
   "name": "portfolio-sara",
   "version": "0.1.0",
-  "homepage": "https://magmesser.github.io/sara-juengst/",
+  "homepage": "https://sarajuengst.com",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
