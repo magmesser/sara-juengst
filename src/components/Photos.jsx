@@ -22,9 +22,9 @@ import Ls2 from "../assets/images/2.jpg";
 import Ls3 from "../assets/images/3.jpg";
 import Ls4 from "../assets/images/4.jpg";
 import FieldWork from "../assets/images/field.jpg";
-import New1 from "../assets/images/20203_1.jpg";
-import New2 from "../assets/images/20203_2.jpg";
-import New3 from "../assets/images/20203_3.jpg";
+import New1 from "../assets/images/2023_1.jpg";
+import New2 from "../assets/images/2023_2.jpg";
+import New3 from "../assets/images/2023_3.jpg";
 
 const Photos = () => {
   const images = [
