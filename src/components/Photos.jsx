@@ -22,6 +22,9 @@ import Ls2 from "../assets/images/2.jpg";
 import Ls3 from "../assets/images/3.jpg";
 import Ls4 from "../assets/images/4.jpg";
 import FieldWork from "../assets/images/field.jpg";
+import New1 from "../assets/images/20203_1.jpg";
+import New2 from "../assets/images/20203_2.jpg";
+import New3 from "../assets/images/20203_3.jpg";
 
 const Photos = () => {
   const images = [
@@ -78,6 +81,24 @@ const Photos = () => {
       name: "Field work",
       src: FieldWork,
       tag: "Dos Mangas, Ecuador",
+    },
+    {
+      id: 10,
+      name: "giving a talk at Universidad San Francisco Quito",
+      src: New1,
+      tag: "Universidad San Francisco, Quito, Ecuador",
+    },
+    {
+      id: 11,
+      name: "PARCC 2023 field school",
+      src: New2,
+      tag: "PARCC 2023 Field School",
+    },
+    {
+      id: 12,
+      name: "excavating at Buen Suceso, Ecuador",
+      src: New3,
+      tag: "Buen Suceso, Ecuador",
     },
   ];
 

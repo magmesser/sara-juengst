@@ -12,6 +12,10 @@
   - Color Theme Reference: https://coolors.co/user/palettes/64658142ee6cec000cb9e7d2
 
 ## Future Development
+-Bugs:
+  - socials bar floating on menu - mobile
+  - photos floating on menu - mobile 
+  - publication tiles not centered - mobile
 - Publications:
   - get links from Sara for read now buttons
 - Student Experience:
