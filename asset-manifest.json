@@ -1,11 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.4a7fe022.css",
-    "main.js": "/static/js/main.e8efc92f.js",
+    "main.js": "/static/js/main.e97610f7.js",
     "static/media/A3_Juengst2020_VITAL_TOPICS_FORUM_Cooperative_Bodies_Bi.pdf": "/static/media/A3_Juengst2020_VITAL_TOPICS_FORUM_Cooperative_Bodies_Bi.751eb911bde3754077f2.pdf",
     "static/media/1.jpg": "/static/media/1.5a238bb7ca5596bd433c.jpg",
     "static/media/CedarGrove.jpg": "/static/media/CedarGrove.5916943bc75c9bbde5e7.jpg",
     "static/media/BoliviaCover.jpg": "/static/media/BoliviaCover.e92cb7ae8f94889b005f.jpg",
+    "static/media/2023_2.jpg": "/static/media/2023_2.c8449808dc349abe1774.jpg",
+    "static/media/2023_3.jpg": "/static/media/2023_3.a149ce0ab9ac71b5cc99.jpg",
     "static/media/2.jpg": "/static/media/2.1361fb82865bc9cd663d.jpg",
     "static/media/A7_Juengst_Chavez_2015_IJPP_Three_Trepanned_Skulls_from_the_Copacaba.pdf": "/static/media/A7_Juengst_Chavez_2015_IJPP_Three_Trepanned_Skulls_from_the_Copacaba.75de2e80692573c53555.pdf",
     "static/media/A10_Juengst_2018_BI_PowerBolivia.pdf": "/static/media/A10_Juengst_2018_BI_PowerBolivia.5d5c06beac18ea1fd22f.pdf",
@@ -18,16 +20,17 @@
     "static/media/selfie4.jpg": "/static/media/selfie4.5de095ffd5d4a1a03bfc.jpg",
     "static/media/Juengstetal_2019_LAQ_unique_infant_mortuary_ritual_at_salango_ecuador_100_bc.pdf": "/static/media/Juengstetal_2019_LAQ_unique_infant_mortuary_ritual_at_salango_ecuador_100_bc.79ee31914b876f626b6a.pdf",
     "static/media/selfie1.jpg": "/static/media/selfie1.bd31e7d61ae38662a027.jpg",
+    "static/media/2023_1.jpg": "/static/media/2023_1.a909fd03acad98a28cbb.jpg",
     "static/media/4.jpg": "/static/media/4.0b76be74f7d81048f143.jpg",
     "static/media/3.jpg": "/static/media/3.807c8a03bc4f587fce6f.jpg",
     "static/media/Logo_Skull_fill.png": "/static/media/Logo_Skull_fill.e3ba404f7f85ea31a436.png",
     "static/media/Logo_Skull_Grey.png": "/static/media/Logo_Skull_Grey.28665d9982b1579b05a5.png",
     "index.html": "/index.html",
     "main.4a7fe022.css.map": "/static/css/main.4a7fe022.css.map",
-    "main.e8efc92f.js.map": "/static/js/main.e8efc92f.js.map"
+    "main.e97610f7.js.map": "/static/js/main.e97610f7.js.map"
   },
   "entrypoints": [
     "static/css/main.4a7fe022.css",
-    "static/js/main.e8efc92f.js"
+    "static/js/main.e97610f7.js"
   ]
 }
