@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4a7fe022.css",
-    "main.js": "/static/js/main.869215ec.js",
+    "main.css": "/static/css/main.e59de031.css",
+    "main.js": "/static/js/main.796b58e0.js",
     "static/media/mba000261.mp3": "/static/media/mba000261.9f4dd56c483b382dc74a.mp3",
     "static/media/A3_Juengst2020_VITAL_TOPICS_FORUM_Cooperative_Bodies_Bi.pdf": "/static/media/A3_Juengst2020_VITAL_TOPICS_FORUM_Cooperative_Bodies_Bi.751eb911bde3754077f2.pdf",
     "static/media/1.jpg": "/static/media/1.5a238bb7ca5596bd433c.jpg",
@@ -27,11 +27,11 @@
     "static/media/Logo_Skull_fill.png": "/static/media/Logo_Skull_fill.e3ba404f7f85ea31a436.png",
     "static/media/Logo_Skull_Grey.png": "/static/media/Logo_Skull_Grey.28665d9982b1579b05a5.png",
     "index.html": "/index.html",
-    "main.4a7fe022.css.map": "/static/css/main.4a7fe022.css.map",
-    "main.869215ec.js.map": "/static/js/main.869215ec.js.map"
+    "main.e59de031.css.map": "/static/css/main.e59de031.css.map",
+    "main.796b58e0.js.map": "/static/js/main.796b58e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a7fe022.css",
-    "static/js/main.869215ec.js"
+    "static/css/main.e59de031.css",
+    "static/js/main.796b58e0.js"
   ]
 }
