@@ -10,6 +10,11 @@
       padding-bottom: 4rem;
   }
 
+  h3 {
+    font-size: 25px;
+    font-weight: bold;
+  }
+
   .news_item {
       background-color: #6096BA;
       text-align: center;
@@ -21,7 +26,6 @@
       justify-content: center;
       color: #E7ECEF;
       font-size: 22px;
-      font-weight: bold;
   }
 
   .swiper-pagination-clickable .swiper-pagination-bullet {

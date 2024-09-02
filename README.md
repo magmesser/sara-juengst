@@ -20,11 +20,11 @@
   - get links from Sara for read now buttons
 - Student Experience:
   - get list of students and topics and where are they now from Sara. then uncomment nav bar menus (2) and app.js
-- Deployment: npm run deploy
 
 ## Contribution
 
 🚧 [Contributor Covenant](https://www.contributor-covenant.org/) <br>
+- Deployment: npm run deploy
 
 ## License
 

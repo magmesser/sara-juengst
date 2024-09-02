@@ -14,42 +14,43 @@ import cv from "../assets/Juengst_CV_public.pdf";
 import cover from "../assets/images/2.jpg";
 
 const pubData = [
-  {
-    id: 7,
-    title: "Story Corps Podcast: Sara Juengst and Ché Abdullah",
-    link: "https://archive.storycorps.org/interviews/sara-juengst-and-che-abdullah/",
-    download: pod1,
-  },
+  // moving this podcast to -in the news- instead of publications
+  // { 
+  //   id: 7,
+  //   title: "Story Corps Podcast: Sara Juengst and Ché Abdullah",
+  //   link: "https://archive.storycorps.org/interviews/sara-juengst-and-che-abdullah/",
+  //   download: pod1,
+  // },
   {
     id: 1,
     title: "Cooperative Bodies: Bioarchaeologists Address Nonranked Societies",
-    link: "https://www.google.com/",
+    // link: "https://www.google.com/",
     download: doc1,
   },
   {
     id: 2,
     title:
       "Three trepanned skulls from the Copacabana Peninsula in the Titicaca Basin, Bolivia (800 BC–AD 1000)",
-    link: "https://www.google.com/",
+    // link: "https://www.google.com/",
     download: doc2,
   },
   {
     id: 3,
     title:
       "Complexity and Power: A Bioarchaeological Analysis of Socioeconomic Change on the Copacabana Peninsula, 800 BC–AD 200",
-    link: "https://www.google.com/",
+    // link: "https://www.google.com/",
     download: doc3,
   },
   {
     id: 4,
     title: "Unique Infant Mortuary Ritual at Salango, Ecuador, 100 BC",
-    link: "https://www.google.com/",
+    // link: "https://www.google.com/",
     download: doc4,
   },
   {
     id: 5,
     title: "The resiliency of diet on the Copacabana Peninsula, Bolivia",
-    link: "https://www.google.com/",
+    // link: "https://www.google.com/",
     download: doc5,
   },
   {
