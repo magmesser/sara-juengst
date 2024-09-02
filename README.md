@@ -12,7 +12,7 @@
   - Color Theme Reference: https://coolors.co/user/palettes/64658142ee6cec000cb9e7d2
 
 ## Future Development
--Bugs:
+- Bugs:
   - socials bar floating on menu - mobile
   - photos floating on menu - mobile 
   - publication tiles not centered - mobile
@@ -20,6 +20,7 @@
   - get links from Sara for read now buttons
 - Student Experience:
   - get list of students and topics and where are they now from Sara. then uncomment nav bar menus (2) and app.js
+- Deployment: git deploy
 
 ## Contribution
 
