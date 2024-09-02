@@ -8,11 +8,18 @@ import doc2 from "../assets/publications/A7_Juengst_Chavez_2015_IJPP_Three_Trepa
 import doc3 from "../assets/publications/A10_Juengst_2018_BI_PowerBolivia.pdf";
 import doc4 from "../assets/publications/Juengstetal_2019_LAQ_unique_infant_mortuary_ritual_at_salango_ecuador_100_bc.pdf";
 import doc5 from "../assets/publications/Juengstetal2021_DietCopacabana (1).pdf";
+import pod1 from "../assets/publications/mba000261.mp3";
 import cv from "../assets/Juengst_CV_public.pdf";
 
 import cover from "../assets/images/2.jpg";
 
 const pubData = [
+  {
+    id: 7,
+    title: "Story Corps Podcast: Sara Juengst and Ché Abdullah",
+    link: "https://archive.storycorps.org/interviews/sara-juengst-and-che-abdullah/",
+    download: pod1,
+  },
   {
     id: 1,
     title: "Cooperative Bodies: Bioarchaeologists Address Nonranked Societies",
