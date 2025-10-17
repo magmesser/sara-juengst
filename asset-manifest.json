@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e59de031.css",
-    "main.js": "/static/js/main.796b58e0.js",
-    "static/media/mba000261.mp3": "/static/media/mba000261.9f4dd56c483b382dc74a.mp3",
+    "main.js": "/static/js/main.f6e80d93.js",
     "static/media/A3_Juengst2020_VITAL_TOPICS_FORUM_Cooperative_Bodies_Bi.pdf": "/static/media/A3_Juengst2020_VITAL_TOPICS_FORUM_Cooperative_Bodies_Bi.751eb911bde3754077f2.pdf",
     "static/media/1.jpg": "/static/media/1.5a238bb7ca5596bd433c.jpg",
     "static/media/CedarGrove.jpg": "/static/media/CedarGrove.5916943bc75c9bbde5e7.jpg",
@@ -14,7 +13,13 @@
     "static/media/A10_Juengst_2018_BI_PowerBolivia.pdf": "/static/media/A10_Juengst_2018_BI_PowerBolivia.5d5c06beac18ea1fd22f.pdf",
     "static/media/selfie3.jpg": "/static/media/selfie3.c87cc6bbbc8b0f937920.jpg",
     "static/media/Juengstetal2021_DietCopacabana (1).pdf": "/static/media/Juengstetal2021_DietCopacabana (1).602a4a5abc31dae265e4.pdf",
+    "static/media/Ecuador25_1.png": "/static/media/Ecuador25_1.2b43a3e381cb022d8924.png",
+    "static/media/Ecuador25_3.png": "/static/media/Ecuador25_3.27b9147ce8a85970baa8.png",
+    "static/media/Ecuador25_2.png": "/static/media/Ecuador25_2.a2ab880c8a3fd60c8333.png",
+    "static/media/Ecuador25_4.png": "/static/media/Ecuador25_4.f828e79323bda48211e0.png",
+    "static/media/Ecuador25_0.png": "/static/media/Ecuador25_0.1e84bcd22b20958969b1.png",
     "static/media/field.jpg": "/static/media/field.1904ffe306269d5002f1.jpg",
+    "static/media/American_Journal_of_BioAnth.pdf": "/static/media/American_Journal_of_BioAnth.c632bb29e5ee946c7efa.pdf",
     "static/media/EcuadorDig.jpg": "/static/media/EcuadorDig.34a9dfdd743ad46bee43.jpg",
     "static/media/Juengst_CV_public.pdf": "/static/media/Juengst_CV_public.5e615732b6a69c705eec.pdf",
     "static/media/selfie2.jpg": "/static/media/selfie2.186d2e6e46ebe989b523.jpg",
@@ -28,10 +33,10 @@
     "static/media/Logo_Skull_Grey.png": "/static/media/Logo_Skull_Grey.28665d9982b1579b05a5.png",
     "index.html": "/index.html",
     "main.e59de031.css.map": "/static/css/main.e59de031.css.map",
-    "main.796b58e0.js.map": "/static/js/main.796b58e0.js.map"
+    "main.f6e80d93.js.map": "/static/js/main.f6e80d93.js.map"
   },
   "entrypoints": [
     "static/css/main.e59de031.css",
-    "static/js/main.796b58e0.js"
+    "static/js/main.f6e80d93.js"
   ]
 }
