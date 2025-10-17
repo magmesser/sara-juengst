@@ -12,6 +12,14 @@ import "./News.css";
 import { Autoplay, Pagination } from "swiper";
 
 const newsLinks = [
+    {
+    id: 13,
+    year: 2025,
+    title:
+      "Grant announcement: National Science Foundation Collaborative Archaeology Grant:  Drivers of Variation in Social Organization, co-PIs with Sarah Rowe and Guy Duke",
+    description: "Interviewed by Ché Abdullah about creating space for the protection of African American burial grounds and protecting Cedar Grove Cemetery.",
+      link: "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2513994&HistoricalAwards=false",
+  },
   {
     id: 12,
     year: 2024,

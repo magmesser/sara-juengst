@@ -25,6 +25,11 @@ import FieldWork from "../assets/images/field.jpg";
 import New1 from "../assets/images/2023_1.jpg";
 import New2 from "../assets/images/2023_2.jpg";
 import New3 from "../assets/images/2023_3.jpg";
+import Ecuador25_1 from "../assets/images/Ecuador25_0.png";
+import Ecuador25_2 from "../assets/images/Ecuador25_1.png";
+import Ecuador25_3 from "../assets/images/Ecuador25_2.png";
+import Ecuador25_4 from "../assets/images/Ecuador25_3.png";
+import Ecuador25_5 from "../assets/images/Ecuador25_4.png";
 
 const Photos = () => {
   const images = [
@@ -100,6 +105,33 @@ const Photos = () => {
       src: New3,
       tag: "Buen Suceso, Ecuador",
     },
+    {
+      id: 13,
+      name: "Ecuador Summer 2025: Dos Mangas",
+      src: Ecuador25_1,
+      tag: "Ecuador Summer 2025: HECK/PARCC",
+    },    {
+      id: 14,
+      name: "Ecuador Summer 2025: HECK Week 1",
+      src: Ecuador25_2,
+      tag: "Ecuador Summer 2025: HECK/PARCC",
+    },    {
+      id: 15,
+      name: "",
+      src: Ecuador25_3,
+      tag: "Ecuador Summer 2025: HECK/PARCC",
+    },    {
+      id: 16,
+      name: "",
+      src: Ecuador25_4,
+      tag: "Ecuador Summer 2025: HECK/PARCC",
+    },    {
+      id: 17,
+      name: "",
+      src: Ecuador25_5,
+      tag: "Ecuador Summer 2025: HECK/PARCC",
+    },
+    
   ];
 
   return (

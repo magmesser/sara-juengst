@@ -27,7 +27,7 @@ const Research = () => {
           <div className="shadow-md shadow-[#040c16] bg-[#6096BA] rsch_hover rounded-md duration-300">
             <a href="https://www.utrgv.edu/parcc/index.htm" target="_blank" rel="noreferrer">
               <img className="w-50 mx-auto rounded-t-md hover:rounded-t-2xl duration-300" src={Ecuador} alt="Ecador Field Work"></img>
-              <p className="my-4">Proyecto Arqueológico de los Ríos Culebra-Colín (PARCC)</p>
+              <p className="my-4">Proyecto Arqueológico de los Ríos Culebra-Colín (PARCC) ***Now NSF Funded!*** </p>
             </a>
           </div>
           <div className="shadow-md shadow-[#040c16] bg-[#6096BA] rsch_hover rounded-md duration-300">
