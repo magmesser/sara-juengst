@@ -16,8 +16,8 @@ const newsLinks = [
     id: 13,
     year: 2025,
     title:
-      "Grant announcement: National Science Foundation Collaborative Archaeology Grant:  Drivers of Variation in Social Organization, co-PIs with Sarah Rowe and Guy Duke",
-    description: "Interviewed by Ché Abdullah about creating space for the protection of African American burial grounds and protecting Cedar Grove Cemetery.",
+      "Grant announcement: National Science Foundation Collaborative Archaeology Grant  ",
+    description: "Drivers of Variation in Social Organization, co-PIs with Sarah Rowe and Guy Duke.",
       link: "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2513994&HistoricalAwards=false",
   },
   {
@@ -25,7 +25,7 @@ const newsLinks = [
     year: 2024,
     title:
       "Story Corps Podcast: Sara Juengst and Ché Abdullah",
-    description: "Interviewed by Ché Abdullah about creating space for the protection of African American burial grounds and protecting Cedar Grove Cemetery.",
+    description: "Interviewed by Ché Abdullah about creating space for the protection of African American burial grounds and Cedar Grove Cemetery.",
       link: "https://www.lincolntimesnews.com/news/digging-for-history-graduate-students-conduct-archeological-dig-at-mount-vernon-rosenwald-school/article_9e2e2210-6cb9-11ed-8b68-af5d1045c9ad.html",
   },
   {

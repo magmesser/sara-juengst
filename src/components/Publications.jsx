@@ -23,6 +23,12 @@ const pubData = [
   //   download: pod1,
   // },
   {
+    id: 7,
+    title: "Establishing an Ecuadorian Isoscape: The Importance of Baseline Strontium Data in a Volcanic Landscape",
+    link: "https://onlinelibrary.wiley.com/doi/full/10.1002/ajpa.70074",
+    download: doc6,
+  },
+  {
     id: 1,
     title: "Cooperative Bodies: Bioarchaeologists Address Nonranked Societies",
     link: "https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1111/aman.13497",
@@ -53,12 +59,6 @@ const pubData = [
     title: "The resiliency of diet on the Copacabana Peninsula, Bolivia",
     link: "https://www.sciencedirect.com/science/article/abs/pii/S0278416520302336",
     download: doc5,
-  },
-  {
-    id: 7,
-    title: "Establishing an Ecuadorian Isoscape: The Importance of Baseline Strontium Data in a Volcanic Landscape",
-    link: "https://onlinelibrary.wiley.com/doi/full/10.1002/ajpa.70074",
-    download: doc6,
   },
   {
     id: 6,
